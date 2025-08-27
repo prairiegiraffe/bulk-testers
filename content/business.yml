@@ -1,0 +1,11 @@
+name: "Bulk Testers"
+tagline: "Professional Oil well testing. Services"
+phone: "307-123-4562"
+email: "test@example.com"
+address: ""
+city: "Greely"
+state: "CO"
+zip: ""
+hours: "Mon-Fri: 9am-5pm, Sat: 9am-2pm"
+service_areas:
+  - "Colorado"
