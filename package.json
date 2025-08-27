@@ -1,0 +1,9 @@
+{
+  "name": "bulk-testers",
+  "version": "1.0.0",
+  "description": "Website for Bulk Testers",
+  "scripts": {
+    "build": "echo \"Static site - no build required\"",
+    "start": "echo \"Static site - ready for deployment\""
+  }
+}
